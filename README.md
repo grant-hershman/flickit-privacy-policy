@@ -28,7 +28,7 @@
      - Titles
      - Taglines
      - Actor/actress headshots
-   - We do **not** share your personal data with TMDB. TMDB’s use of its own data and analytics is governed by their own Privacy Policy.
+   - We do **not** share your personal data with TMDB. TMDB’s use of its own data and analytics is governed by their own [Privacy Policy](https://www.themoviedb.org/privacy-policy?language=en-US).
    - This app is **not affiliated with or endorsed by TMDB**.
 8. **Data Sharing**
    - We do **not sell, rent, or share** your data with third parties.
