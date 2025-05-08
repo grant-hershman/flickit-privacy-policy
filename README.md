@@ -41,6 +41,6 @@
     - We may update this Privacy Policy from time to time.
     - All changes will be posted here, and significant updates may be notified via the app.
 14. **Contact**
-    - If you have any questions about this Privacy Policy, please contact:
+    - If you have any questions about this Privacy Policy, please contact: <flickitmovieapp@gmail.com>
 16. **TMDB Attribution**
     - This product uses the TMDB API but is **not endorsed or certified by TMDB**.
